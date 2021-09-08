@@ -11,7 +11,7 @@ De styling van de webpagina Ciao Tutti in `index.html` (map `/opdracht-1`) is no
 
 ### Eindresultaat
 
-![Website](opdracht-1/assets/screenshot-ciao-tutti.png "Eindresultaat")
+![Website](assets/screenshot-ciao-tutti.png)
 
 ## Opdracht 2 - Flexbox
 
@@ -31,32 +31,32 @@ In `index.html` vindt je de HTML voor de opdracht. Denk eraan:
 ### Eindresultaat opdracht 2.1:
 Zorg dat het paarse review-blok er zo uit komt te zien door flexbox te gebruiken:
 
-![Opdracht 2.1](opdracht-2/assets/one.png "Eindresultaat")
+![Opdracht 2.1](../opdracht-2/assets/one.png)"Eindresultaat")
 
 ### Eindresultaat opdracht 2.2:
 Zorg dat de `<div class="two">` er zo uit komt te zien door flexbox te gebruiken:
 
-![Opdracht 2.2](opdracht-2/assets/two.png "Eindresultaat")
+![Opdracht 2.2](../opdracht-2/assets/two.png "Eindresultaat")
 
 ### Eindresultaat opdracht 2.3:
 Zorg dat de `<div class="three">` er zo uit komt te zien door flexbox te gebruiken:
 
-![Opdracht 2.3](opdracht-2/assets/three.png "Eindresultaat")
+![Opdracht 2.3](../opdracht-2/assets/three.png "Eindresultaat")
 
 ### Eindresultaat opdracht 2.4:
 Zorg dat het login-blok er zo uit komt te zien door flexbox te gebruiken:
 
-![Opdracht 2.4](opdracht-2/assets/four.png "Eindresultaat")
+![Opdracht 2.4](../opdracht-2/assets/four.png "Eindresultaat")
 
 ### Eindresultaat opdracht 2.5:
 Zorg dat de layout van de gele blokken er zo uit komt te zien door flexbox te gebruiken.
 Elk blok heeft een minimale breedte van 1/3 van het originele scherm van 1200px. **Let op:** er zit ook nog padding op.
 
-![Opdracht 2.5](opdracht-2/assets/five-big.png "Eindresultaat")
+![Opdracht 2.5](../opdracht-2/assets/five-big.png "Eindresultaat")
 
 Als het scherm kleiner wordt, willen we dat de blokken op de volgende regel wrappen zodra ze niet meer passen:
 
-![Opdracht 2.5](opdracht-2/assets/five-small.png "Eindresultaat")
+![Opdracht 2.5](../opdracht-2/assets/five-small.png "Eindresultaat")
 
 
 
